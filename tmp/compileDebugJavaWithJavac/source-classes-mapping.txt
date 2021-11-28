@@ -1,0 +1,23 @@
+com/example/exp2/BuildConfig.java
+ com.example.exp2.BuildConfig
+com/example/exp2/MainActivity.java
+ com.example.exp2.MainActivity
+ com.example.exp2.MainActivity$1
+ com.example.exp2.MainActivity$2
+ com.example.exp2.MainActivity$3
+ com.example.exp2.MainActivity$4
+ com.example.exp2.MainActivity$5
+ com.example.exp2.MainActivity$6
+ com.example.exp2.MainActivity$7
+ com.example.exp2.MainActivity$8
+ com.example.exp2.MainActivity$9
+com/example/exp2/Words.java
+ com.example.exp2.Words
+com/example/exp2/WordsAdapter.java
+ com.example.exp2.WordsAdapter
+com/example/exp2/MyDH.java
+ com.example.exp2.MyDH
+com/example/exp2/listwordsFragment.java
+ com.example.exp2.listwordsFragment
+com/example/exp2/tv1Fragment.java
+ com.example.exp2.tv1Fragment
